@@ -1,0 +1,1 @@
+<p>Candidato <?= $candidato['nombre'] ?> con nivel <?= $candidato['nivel'] ?> creado.</p>
